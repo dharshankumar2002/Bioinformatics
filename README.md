@@ -13,5 +13,5 @@ This is a respository for storing all the codes related to the Bio-informatics.
   
  3) Global & Local alignment for DNA sequence:<br>
   3.1) Needleman – Wunsch<br>
-  3.2) Smith - Waterman
+  3.2) Smith – Waterman
 
