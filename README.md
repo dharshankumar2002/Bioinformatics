@@ -15,8 +15,8 @@ This is a respository for storing all the codes related to the Bio-informatics.
   3.1) Needleman – Wunsch<br>
   3.2) Smith – Waterman
  
-4. n-gram Probaility:
-  4.1) Unigram
-  4.2) Bigram
+4. n-gram Probaility:<br>
+  4.1) Unigram<br>
+  4.2) Bigram<br>
   4.3) Trigram
 
